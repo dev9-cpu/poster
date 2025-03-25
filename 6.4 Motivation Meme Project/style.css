@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+}
+div{
+    padding: 1px;
+    margin: 10%;
+    text-align: center;
+}
+img{
+    width: 100%;
+    margin-top: 100px;
+    align-items: center;
+    height: 50%;
+    width: 100%;
+    padding: 1px;
+    border: 3px solid whitesmoke;
+}
+h1{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
